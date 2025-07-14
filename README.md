@@ -4,7 +4,7 @@
 
 ## Overview
 
-Welcome to the Applied Machine Learning! This curriculum is designed to teach you how to implement and apply machine learning algorithms in practice. We focus on **practical skills** and giving you the tools to make these algorithms work effectively in real-world scenarios.
+Welcome to Applied Machine Learning! This curriculum is designed to teach you how to implement and apply machine learning algorithms in practice. We focus on **practical skills** and giving you the tools to make these algorithms work effectively in real-world scenarios.
 
 ## Learning Objectives
 
