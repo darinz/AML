@@ -28,27 +28,27 @@ As the number of dimensions increases:
 PCA finds the directions (principal components) that maximize the variance in the data.
 
 #### Step 1: Data Centering
-```
-X_centered = X - μ
+```math
+X_{\text{centered}} = X - \mu
 ```
 
 #### Step 2: Covariance Matrix
-```
-Σ = (1/n) × X_centered^T × X_centered
+```math
+\Sigma = \frac{1}{n} \times X_{\text{centered}}^T \times X_{\text{centered}}
 ```
 
 #### Step 3: Eigendecomposition
-```
-Σ = V × Λ × V^T
+```math
+\Sigma = V \times \Lambda \times V^T
 ```
 
 Where:
-- `V` contains eigenvectors (principal components)
-- `Λ` contains eigenvalues (variance explained)
+- $`V`$ contains eigenvectors (principal components)
+- $`\Lambda`$ contains eigenvalues (variance explained)
 
 #### Step 4: Projection
-```
-X_reduced = X_centered × V[:, :k]
+```math
+X_{\text{reduced}} = X_{\text{centered}} \times V[:, :k]
 ```
 
 ### Complete Implementation
