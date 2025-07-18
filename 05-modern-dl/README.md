@@ -34,37 +34,56 @@ By the end of this module, you will be able to:
 - **Prompt Engineering**: Designing effective prompts for LLMs
 - **Ethical Considerations**: Bias, fairness, and responsible AI
 
+## Comprehensive Guides
+
+This module includes detailed markdown guides with mathematical foundations and implementations:
+
+1. **01-words-attention.md**: NLP basics, embeddings, attention, sequence modeling
+2. **02-transformers-language-vision.md**: Transformer architecture, BERT/GPT, ViT, cross-modal models
+3. **03-foundation-models.md**: Foundation models (CLIP, GPT-3), scaling laws, prompt engineering, ethics
+
+## Python Examples
+
+The `modern_dl_examples.py` file contains comprehensive implementations:
+- Word embeddings and text preprocessing
+- Attention mechanisms and transformer blocks
+- BERT/GPT demo (using HuggingFace Transformers)
+- Vision Transformer patching
+- CLIP contrastive loss
+- Prompt engineering
+
+## Installation
+
+Install the required packages:
+
+```bash
+pip install -r requirements.txt
+```
+
+## Running Examples
+
+Run the comprehensive examples:
+
+```bash
+python modern_dl_examples.py
+```
+
+## Key Learning Outcomes
+
+- Understand and implement attention mechanisms
+- Build and use transformer architectures
+- Apply transformers to NLP and vision tasks
+- Use and adapt foundation models (BERT, GPT, CLIP)
+- Understand scaling laws and prompt engineering
+- Recognize ethical considerations in large models
+
 ## Practical Applications
 
-- **Language Translation**: Machine translation systems
-- **Text Generation**: Creative writing, code generation, summarization
-- **Image Captioning**: Generating descriptions for images
-- **Question Answering**: Building QA systems
-- **Multimodal AI**: Systems that process text, images, and audio
-
-## Implementation Focus
-
-This module emphasizes **state-of-the-art implementation**:
-- Build attention mechanisms from scratch
-- Implement transformer blocks using PyTorch/TensorFlow
-- Fine-tune pre-trained models for specific tasks
-- Create custom datasets and data loaders
-- Optimize model performance and memory usage
-
-## Key Concepts
-
-- **Attention as a General Mechanism**: Understanding why attention works
-- **Scaling Laws**: How model performance scales with size
-- **Transfer Learning**: Leveraging pre-trained representations
-- **Few-Shot Learning**: Learning from minimal examples
-- **Emergent Abilities**: Capabilities that appear in larger models
-
-## Advanced Topics
-
-- **Efficient Attention**: Linear attention, sparse attention
-- **Model Compression**: Quantization, pruning, knowledge distillation
-- **Multi-Modal Learning**: Combining text, vision, and audio
-- **Reinforcement Learning from Human Feedback (RLHF)**: Aligning models with human preferences
+- Language translation
+- Text generation
+- Image captioning
+- Multimodal search
+- Few-shot and zero-shot learning
 
 ## Prerequisites
 
@@ -72,12 +91,6 @@ This module emphasizes **state-of-the-art implementation**:
 - Strong understanding of deep learning concepts
 - Experience with PyTorch or TensorFlow
 - Familiarity with natural language processing basics
-
-## Computational Requirements
-
-- Access to GPU resources (recommended)
-- Understanding of distributed training
-- Experience with large-scale data processing
 
 ## Next Steps
 
