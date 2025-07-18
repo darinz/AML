@@ -321,9 +321,9 @@ plt.show()
 
 ### Computational Complexity
 
-- **Training**: O(1) - just store data
-- **Prediction**: O(n×d) where n = training samples, d = dimensions
-- **Memory**: O(n×d) - stores all training data
+- **Training**: $`O(1)`$ - just store data
+- **Prediction**: $`O(n \times d)`$ where $`n`$ = training samples, $`d`$ = dimensions
+- **Memory**: $`O(n \times d)`$ - stores all training data
 
 ### Optimization Techniques
 
