@@ -60,6 +60,80 @@ This module emphasizes **production-ready implementation**:
 - Understanding of gradient descent and optimization
 - Familiarity with probability and statistics
 
+## Learning Resources
+
+### Comprehensive Guides
+
+This module includes detailed markdown guides for each topic:
+
+1. **01-linear-regression-regularization.md** - Complete guide to linear regression and regularization techniques
+   - Mathematical foundations and derivations
+   - Implementation from scratch (normal equation and gradient descent)
+   - Ridge, Lasso, and Elastic Net regularization
+   - Feature engineering and polynomial regression
+   - Cross-validation and model selection
+   - Real-world applications
+
+2. **02-classification.md** - Comprehensive guide to classification algorithms
+   - Logistic regression (binary and multiclass)
+   - Support Vector Machines (SVM) with different kernels
+   - Naïve Bayes classifiers (Gaussian, Multinomial, Bernoulli)
+   - Model evaluation metrics and ROC curves
+   - Practical applications and comparisons
+
+3. **03-trees-ensemble.md** - Complete guide to decision trees and ensemble methods
+   - Decision tree implementation from scratch
+   - Bagging (Bootstrap Aggregating)
+   - Random Forest with feature importance
+   - AdaBoost and other boosting algorithms
+   - Model comparison and evaluation
+
+### Python Examples
+
+Each guide is accompanied by comprehensive Python examples:
+
+- **linear_regression_examples.py** - Complete implementations and demonstrations
+- **classification_examples.py** - Classification algorithms with practical examples
+- **trees_ensemble_examples.py** - Decision trees and ensemble methods
+
+### Installation
+
+Install the required dependencies:
+
+```bash
+pip install -r requirements.txt
+```
+
+### Running Examples
+
+Each example file can be run independently:
+
+```bash
+python linear_regression_examples.py
+python classification_examples.py
+python trees_ensemble_examples.py
+```
+
+## Key Learning Outcomes
+
+By completing this module, you will:
+
+- **Understand the mathematical foundations** of linear models and classification
+- **Implement algorithms from scratch** using numpy and mathematical principles
+- **Apply regularization techniques** to prevent overfitting
+- **Build ensemble methods** and understand their mechanics
+- **Evaluate model performance** using appropriate metrics
+- **Solve real-world problems** with practical applications
+
+## Practical Applications
+
+The examples demonstrate real-world applications including:
+- House price prediction using linear regression
+- Spam detection with classification algorithms
+- Credit card fraud detection with ensemble methods
+- Customer churn prediction
+- Medical diagnosis and risk assessment
+
 ## Next Steps
 
 After completing this module, you'll be ready for **Probabilistic & Statistical Methods** where you'll learn about unsupervised learning and statistical modeling. 
