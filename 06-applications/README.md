@@ -34,38 +34,54 @@ By the end of this module, you will be able to:
 - **Deep RL**: DQN, DDPG, PPO algorithms
 - **Multi-Agent Systems**: Cooperation, competition, emergent behavior
 
+## Comprehensive Guides
+
+This module includes detailed markdown guides with mathematical foundations and implementations:
+
+1. **01-audio-signals.md**: Audio and 1D signal processing, feature extraction, classification, time series
+2. **02-building-deploying-ml.md**: MLOps, model serving, data pipelines, monitoring, scalability
+3. **03-reinforcement-learning.md**: RL fundamentals, Q-learning, policy gradients, deep RL, multi-agent systems
+
+## Python Examples
+
+The `applications_examples.py` file contains comprehensive implementations:
+- Audio and signal processing (FFT, filtering, spectrogram)
+- Model serving with Flask
+- Time series analysis
+- Reinforcement learning (Q-learning)
+- Model monitoring
+
+## Installation
+
+Install the required packages:
+
+```bash
+pip install -r requirements.txt
+```
+
+## Running Examples
+
+Run the comprehensive examples:
+
+```bash
+python applications_examples.py
+```
+
+## Key Learning Outcomes
+
+- Process and analyze audio and 1D signals
+- Build and deploy ML systems with REST APIs
+- Monitor and maintain models in production
+- Implement and understand reinforcement learning algorithms
+- Apply ML to real-world problems (audio, time series, RL, deployment)
+
 ## Practical Applications
 
-- **Autonomous Systems**: Self-driving cars, robotics, drones
-- **Recommendation Systems**: Personalized content, product recommendations
-- **Game AI**: Game playing agents, procedural content generation
-- **Financial Trading**: Algorithmic trading, portfolio optimization
-- **Healthcare**: Medical diagnosis, drug discovery, personalized medicine
-
-## Implementation Focus
-
-This module emphasizes **production-ready systems**:
-- Build end-to-end ML pipelines
-- Implement real-time inference systems
-- Create robust monitoring and alerting
-- Deploy models using cloud platforms
-- Handle edge cases and failure modes
-
-## Key Concepts
-
-- **System Design**: Architecture patterns for ML systems
-- **Reliability**: Fault tolerance, redundancy, graceful degradation
-- **Security**: Model security, data privacy, adversarial attacks
-- **Ethics**: Fairness, transparency, accountability in ML systems
-- **Business Impact**: ROI, cost-benefit analysis, stakeholder communication
-
-## Technical Skills
-
-- **Cloud Platforms**: AWS, GCP, Azure for ML deployment
-- **Containerization**: Docker, Kubernetes for scalable deployment
-- **Monitoring Tools**: Prometheus, Grafana, MLflow
-- **Version Control**: Git, DVC for model and data versioning
-- **Testing**: Unit tests, integration tests, A/B testing
+- Speech recognition
+- Music genre classification
+- Real-time prediction APIs
+- Batch inference pipelines
+- Game AI and robotics
 
 ## Prerequisites
 
@@ -73,21 +89,6 @@ This module emphasizes **production-ready systems**:
 - Experience with software engineering best practices
 - Understanding of distributed systems
 - Familiarity with cloud computing concepts
-
-## Real-World Projects
-
-This module culminates in **capstone projects**:
-- Build a complete ML system from data collection to deployment
-- Implement RL agents for complex environments
-- Create audio processing applications
-- Deploy models with proper monitoring and maintenance
-
-## Career Preparation
-
-- **Industry Best Practices**: How ML is applied in real companies
-- **Team Collaboration**: Working in ML teams and cross-functional groups
-- **Communication**: Explaining ML concepts to non-technical stakeholders
-- **Continuous Learning**: Staying current with rapidly evolving field
 
 ## Next Steps
 
