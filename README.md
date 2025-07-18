@@ -66,14 +66,20 @@ Before starting this curriculum, you should have:
 - Ensembles and Random Forests 
 
 ## **Deep Learning**
-- **K-Means Clustering**: Grouping similar data points
-- **Dimensionality Reduction**: PCA and other techniques
-- **Association Rules**: Finding patterns in data
+
+### 10. Stochastic Gradient Descent
+
+### 11. MLPs and Backprop
+
+### 12. CNNs and Keys to Deep Learning
+
+### 13. Deep Learning Optimization and Computer Vision
+
+### 14. Words and Attention
+
+### 15. Transformers in Language and Vision
 
 ## **Applications **
-- **Anomaly Detection**: Identifying unusual patterns
-- **Recommender Systems**: Building recommendation engines
-- **Natural Language Processing**: Text analysis and processing
 
 ## Final Project
 
