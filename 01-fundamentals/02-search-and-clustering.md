@@ -236,13 +236,13 @@ d(C_1, C_2) = \min\{d(x, y) \mid x \in C_1, y \in C_2\}
 ```
 
 #### Complete Linkage
-```
-d(C1, C2) = max{d(x, y) | x ∈ C1, y ∈ C2}
+```math
+d(C_1, C_2) = \max\{d(x, y) \mid x \in C_1, y \in C_2\}
 ```
 
 #### Average Linkage
-```
-d(C1, C2) = (1/|C1|×|C2|) × Σ d(x, y) for x ∈ C1, y ∈ C2
+```math
+d(C_1, C_2) = \frac{1}{|C_1| \times |C_2|} \sum_{x \in C_1, y \in C_2} d(x, y)
 ```
 
 #### Ward's Method
