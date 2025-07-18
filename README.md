@@ -39,6 +39,26 @@ Before starting this curriculum, you should have:
 - K-NN Regression
 - Generalization
 
+### 2. Search and Clustering
+
+### 3. Dimensionality reduction
+- PCA
+- embeddings
+
+### 4. Linear regression, regularization
+
+### 5. Classification
+- logistic regression
+- SVM
+- Naïve Bayes Classifier
+
+### 6. EM and Latent Variables
+
+### 7. Density estimation
+- MoG
+- Hists
+- KDE
+
 ## **Deep Learning**
 - **K-Means Clustering**: Grouping similar data points
 - **Dimensionality Reduction**: PCA and other techniques
