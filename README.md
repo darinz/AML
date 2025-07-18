@@ -31,29 +31,23 @@ Before starting this curriculum, you should have:
   - Eigenvalues and eigenvectors
   - Basic calculus concepts
 
-## Curriculum
+## **Fundamentals of Learning**
 
-### 1. **Supervised Learning Algorithms**
-- **Linear Regression**: Predicting continuous values
-- **Logistic Regression**: Binary and multi-class classification
-- **Support Vector Machines (SVM)**: Classification with maximum margin
-- **Neural Networks & Deep Learning**: Multi-layer perceptrons and modern architectures
+### 1. K-NN
+- K-NN Classification
+- Data Representation
+- K-NN Regression
+- Generalization
 
-### 2. **Unsupervised Learning Algorithms**
+## **Deep Learning**
 - **K-Means Clustering**: Grouping similar data points
 - **Dimensionality Reduction**: PCA and other techniques
 - **Association Rules**: Finding patterns in data
 
-### 3. **Specialized Applications**
+## **Applications **
 - **Anomaly Detection**: Identifying unusual patterns
 - **Recommender Systems**: Building recommendation engines
 - **Natural Language Processing**: Text analysis and processing
-
-### 4. **Practical Skills**
-- Data preprocessing and feature engineering
-- Model evaluation and validation
-- Hyperparameter tuning
-- Model deployment and production considerations
 
 ## Final Project
 
