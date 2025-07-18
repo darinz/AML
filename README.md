@@ -31,7 +31,7 @@ Before starting this curriculum, you should have:
   - Eigenvalues and eigenvectors
   - Basic calculus concepts
 
-## Curriculum Structure
+## Curriculum
 
 ### 1. **Supervised Learning Algorithms**
 - **Linear Regression**: Predicting continuous values
