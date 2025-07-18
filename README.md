@@ -59,6 +59,12 @@ Before starting this curriculum, you should have:
 - Hists
 - KDE
 
+### 8. Outliers and Robust Estimation
+
+### 9. Trees
+- Decision Trees
+- Ensembles and Random Forests 
+
 ## **Deep Learning**
 - **K-Means Clustering**: Grouping similar data points
 - **Dimensionality Reduction**: PCA and other techniques
