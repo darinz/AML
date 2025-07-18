@@ -47,8 +47,8 @@ def manhattan_distance(x1, x2):
 
 #### Cosine Similarity
 Useful for high-dimensional data, especially text:
-```
-cosine_similarity(x, y) = (x · y) / (||x|| × ||y||)
+```math
+\text{cosine\_similarity}(x, y) = \frac{x \cdot y}{\|x\| \times \|y\|}
 ```
 
 **Python Implementation:**
