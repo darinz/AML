@@ -231,8 +231,8 @@ Hierarchical clustering builds a tree-like structure (dendrogram) showing the re
 ### Linkage Methods
 
 #### Single Linkage
-```
-d(C1, C2) = min{d(x, y) | x ∈ C1, y ∈ C2}
+```math
+d(C_1, C_2) = \min\{d(x, y) \mid x \in C_1, y \in C_2\}
 ```
 
 #### Complete Linkage
