@@ -31,15 +31,14 @@ K-means is the most popular clustering algorithm due to its simplicity and effec
 
 The algorithm minimizes the within-cluster sum of squares (WCSS):
 
-```
-WCSS = Σ Σ ||xi - μk||²
-       k  i∈Ck
+```math
+\text{WCSS} = \sum_{k=1}^{K} \sum_{i \in C_k} \|x_i - \mu_k\|^2
 ```
 
 Where:
-- `xi` is a data point
-- `μk` is the centroid of cluster k
-- `Ck` is the set of points in cluster k
+- $`x_i`$ is a data point
+- $`\mu_k`$ is the centroid of cluster k
+- $`C_k`$ is the set of points in cluster k
 
 ### Algorithm Steps
 
