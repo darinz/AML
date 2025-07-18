@@ -79,7 +79,17 @@ Before starting this curriculum, you should have:
 
 ### 15. Transformers in Language and Vision
 
-## **Applications **
+### 16. Foundation Models
+- CLIP
+- GPT-3
+
+## **Applications**
+
+### 17. Audio and 1D Signals
+
+### 18. Building and Deploying ML
+
+### 19. Reinforcement Learning
 
 ## Final Project
 
