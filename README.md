@@ -31,65 +31,38 @@ Before starting this curriculum, you should have:
   - Eigenvalues and eigenvectors
   - Basic calculus concepts
 
-## **Fundamentals of Learning**
+## **Curriculum Topics**
 
-### 1. K-NN
-- K-NN Classification
-- Data Representation
-- K-NN Regression
-- Generalization
+### **1. Fundamentals & Basic Algorithms**
+- **K-NN**: Classification, Data Representation, Regression, Generalization
+- **Search and Clustering**: Basic clustering algorithms and search techniques
+- **Dimensionality Reduction**: PCA, embeddings, and feature reduction methods
 
-### 2. Search and Clustering
+### **2. Linear Models & Classical ML**
+- **Linear Regression & Regularization**: Linear models with regularization techniques
+- **Classification**: Logistic Regression, SVM, Naïve Bayes Classifier
+- **Trees**: Decision Trees, Ensembles, and Random Forests
 
-### 3. Dimensionality reduction
-- PCA
-- embeddings
+### **3. Probabilistic & Statistical Methods**
+- **EM and Latent Variables**: Expectation-Maximization and hidden variable models
+- **Density Estimation**: Mixture of Gaussians (MoG), Histograms, Kernel Density Estimation (KDE)
+- **Outliers and Robust Estimation**: Anomaly detection and robust statistical methods
 
-### 4. Linear regression, regularization
+### **4. Neural Networks & Deep Learning Foundations**
+- **Stochastic Gradient Descent**: Optimization fundamentals for neural networks
+- **MLPs and Backpropagation**: Multi-layer perceptrons and gradient computation
+- **CNNs and Keys to Deep Learning**: Convolutional Neural Networks and deep learning principles
+- **Deep Learning Optimization and Computer Vision**: Advanced optimization and CV applications
 
-### 5. Classification
-- logistic regression
-- SVM
-- Naïve Bayes Classifier
+### **5. Modern Deep Learning & Transformers**
+- **Words and Attention**: Natural language processing and attention mechanisms
+- **Transformers in Language and Vision**: Transformer architecture applications
+- **Foundation Models**: CLIP, GPT-3, and large-scale pre-trained models
 
-### 6. EM and Latent Variables
-
-### 7. Density estimation
-- MoG
-- Hists
-- KDE
-
-### 8. Outliers and Robust Estimation
-
-### 9. Trees
-- Decision Trees
-- Ensembles and Random Forests 
-
-## **Deep Learning**
-
-### 10. Stochastic Gradient Descent
-
-### 11. MLPs and Backprop
-
-### 12. CNNs and Keys to Deep Learning
-
-### 13. Deep Learning Optimization and Computer Vision
-
-### 14. Words and Attention
-
-### 15. Transformers in Language and Vision
-
-### 16. Foundation Models
-- CLIP
-- GPT-3
-
-## **Applications**
-
-### 17. Audio and 1D Signals
-
-### 18. Building and Deploying ML
-
-### 19. Reinforcement Learning
+### **6. Applications & Deployment**
+- **Audio and 1D Signals**: Signal processing and audio applications
+- **Building and Deploying ML**: Production systems and deployment strategies
+- **Reinforcement Learning**: Learning through interaction and decision making
 
 ## Final Project
 
